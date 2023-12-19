@@ -19,6 +19,7 @@
    ![슬라이드25](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/98bed2f2-a1c2-4dfc-880e-4743dcdb09a2)
    ![슬라이드26](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/80326ba0-158f-417e-9c8b-b78ce6cd92dc)
 ## 발전과제
+resource: capstone_develop : 전처리 및 상관분석 진행, capstone_develop2(1): 사고구간 폴리곤 이용하여 시각화, 노인보호구역 시각화 진행
 1. 3개년 데이터로 발전 (19, 20, 21)
 2. EDA를 통해 데이터를 좀 더 파악
    1) 두변수를 선정하여 알아보기 쉽게 시각화 진행하여 사고건수 관련해 가장 많은 수치를 가지는 변수
