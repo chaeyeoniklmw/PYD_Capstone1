@@ -3,7 +3,7 @@
 ## 프로젝트 소개
 - 프로젝트 이름: 노인사고율 줄이기- 노인횡단 데이터를 통한 보호구역 지정
 - 멤버: 김은혜, 김채연, 조유라
-- 주제 선정 이유:
+- 주제 선정 배경:
   ![슬라이드7](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/50f007d7-3201-4a15-8af8-3262dffc46a8)
   ![슬라이드8](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/6209b189-3fcb-4570-8e14-6e2ed7a90ee1)
   ![슬라이드9](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/e1af1082-9d98-4018-adbe-5098dff3e315)
@@ -19,7 +19,6 @@
    ![슬라이드25](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/98bed2f2-a1c2-4dfc-880e-4743dcdb09a2)
    ![슬라이드26](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/80326ba0-158f-417e-9c8b-b78ce6cd92dc)
 ## 발전과제
-resource: capstone_develop : 전처리 및 상관분석 진행, capstone_develop2(1): 사고구간 폴리곤 이용하여 시각화, 노인보호구역 시각화 진행
 1. 3개년 데이터로 발전 (19, 20, 21)
 2. EDA를 통해 데이터를 좀 더 파악
    1) 두변수를 선정하여 알아보기 쉽게 시각화 진행하여 사고건수 관련해 가장 많은 수치를 가지는 변수
@@ -27,4 +26,15 @@ resource: capstone_develop : 전처리 및 상관분석 진행, capstone_develop
    3) 동대문구 동으로 그룹화하여 가장 많은 사고가 나는 동 분석
    4) 사고 구간 폴리곤을 이용하여 표시
 3. 시각화 역시 gui 툴이 가지고 있는 데이터를 이용해 folium, matplotlib등의 라이브러리를 이용하여 시각화
-4. 기존 노인보호구역 지정 지점과 같이 시각화 하여 더 직관적인 시각화 진행
+
+
+### __Environment__
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+
+### __Development__
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+### __Communication__
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
