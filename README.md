@@ -31,6 +31,13 @@
 
 3. 시각화 역시 gui 툴이 가지고 있는 데이터를 이용해 folium, matplotlib등의 라이브러리를 이용하여 시각화
 
+## 코드 실행하는 방법
+실행위치: Google Colab
+![image](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/7b2a64b5-16ad-4ba0-8d6f-7a35539c28eb)
+1. 위 사진에 해당하는 데이터를 data 파일에서 찾아서 업로드 한다.
+2. 한글폰트 조정이라고 주석이 달린 블럭을 먼저 돌린 후, 다시 런을 해야 한글폰트가 깨지지 않고 나온다.
+
+
 ### __Environment__
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 
