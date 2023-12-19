@@ -24,7 +24,11 @@
    1) 두변수를 선정하여 알아보기 쉽게 시각화 진행하여 사고건수 관련해 가장 많은 수치를 가지는 변수
    2) 사고건수 대비 도로형태 분석, 사고발생장소 대비 도로형태 분석
    3) 동대문구 동으로 그룹화하여 가장 많은 사고가 나는 동 분석
+      ![image](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/616d6b76-c9e6-40db-a13e-29f8f7cadeea)
+
    4) 사고 구간 폴리곤을 이용하여 표시
+      ![image](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/6c124b42-869f-4b8d-b56a-4436a71387c1)
+
 3. 시각화 역시 gui 툴이 가지고 있는 데이터를 이용해 folium, matplotlib등의 라이브러리를 이용하여 시각화
 
 ### __Environment__
