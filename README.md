@@ -33,6 +33,7 @@
 
 ## 코드 실행하는 방법
 <mark>***실행위치: Google Colab***</mark>
+<mark>***실행파일: main.ipynb***</mark>
 <br>
 ![image](https://github.com/chaeyeoniklmw/pyd-capstone/assets/129934881/7b2a64b5-16ad-4ba0-8d6f-7a35539c28eb)
 1. 위 사진에 해당하는 데이터를 data 파일에서 찾아서 업로드 한다.
